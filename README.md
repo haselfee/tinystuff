@@ -1,4 +1,4 @@
-# tinystuff
+# TinyStuff
 
 Tiny House Movement
 
